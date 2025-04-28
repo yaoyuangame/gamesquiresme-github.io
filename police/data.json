@@ -1,7 +1,7 @@
 {
 "ver":"1.0.2",
     "openAd":true,
-"level_1_playAd":true,
+"level_1_playAd":false,
 "interstitialAdRate":1
 
 }

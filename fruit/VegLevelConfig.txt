@@ -7,10 +7,10 @@
 "id":2,"kindCount":3,"groupNum":6,"specialNum":1,"Inter":0
 },
 {
-"id":3,"kindCount":3,"groupNum":7,"specialNum":1,"Inter":0
+"id":3,"kindCount":3,"groupNum":7,"specialNum":1,"Inter":60
 },
 {
-"id":4,"kindCount":3,"groupNum":7,"specialNum":1,"Inter":0
+"id":4,"kindCount":3,"groupNum":7,"specialNum":1,"Inter":60
 },
 {
 "id":5,"kindCount":3,"groupNum":8,"specialNum":1,"Inter":60

@@ -1,6 +1,6 @@
 {
     "ver": "1.0.0",
-    "interstitialInterval":30,
+    "interstitialInterval":60,
     "openAd":true
     
 }

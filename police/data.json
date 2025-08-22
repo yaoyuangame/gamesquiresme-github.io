@@ -3,6 +3,13 @@
     "openAd":true,
 "level_1_playAd":false,
 "interstitialAdRate":1,
-"interstitialInterval":30
+"interstitialInterval":30,
+"InterstitialAdTimer_NewUser":150,
+"InterstitialAdLv_NewUser":3,
+"InterstitialAdTimer_OldUser":70
+"InterstitialAdLv_OldUser":2,
+"interstitialAdStartLv":4,
+"openAdTimer":15,
+"bannerOpen":true
 
 }
